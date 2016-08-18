@@ -1,0 +1,2 @@
+#Hxctimecard.x1s:nth - of - type(2)
+document.querySelectorAll('#Hxctimecard > table:nth-child(3) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(6) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(6) > td:nth-child(2) > table:nth-child(1) > tbody > tr');
